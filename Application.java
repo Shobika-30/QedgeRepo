@@ -14,6 +14,13 @@ public class SwapNumbers {
         System.out.println(txt.toLowerCase());   // Outputs "hello world"
         #end of feature202
         
+        
+        #feature201 changes by vivek
+        String txt = "Please locate where 'locate' occurs!";
+        System.out.println(txt.indexOf("locate")); // Outputs 7
+        
+        #end of feature201
+
         // Value of first is assigned to temporary
         float temporary = first;
 
