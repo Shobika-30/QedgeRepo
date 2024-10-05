@@ -7,7 +7,12 @@ public class SwapNumbers {
         System.out.println("--Before swap--");
         System.out.println("First number = " + first);
         System.out.println("Second number = " + second);
-
+        
+        #feature201 changes by vivek
+        String txt = "Please locate where 'locate' occurs!";
+        System.out.println(txt.indexOf("locate")); // Outputs 7
+        
+        #end of feature201
         // Value of first is assigned to temporary
         float temporary = first;
 
